@@ -1,0 +1,3061 @@
+{
+ "meta": {
+  "order": "XM-SCDD2026111102",
+  "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+  "due": "2026-11-13"
+ },
+ "generated": "2026-11-13 23:11:24",
+ "parts": {
+  "AGS001444-01-REV01.5": {
+   "pn": "AGS001444-01-REV01.5",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV01.5",
+   "perSet": 2.0,
+   "orderQty": 4.0,
+   "semiQty": 4.0,
+   "nestQty": 2.0,
+   "material": "DC51D+Z140/140",
+   "spec": "2.5mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转部件装配",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "AGS001708-01-REV01.4": {
+   "pn": "AGS001708-01-REV01.4",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV01.4",
+   "perSet": 3.0,
+   "orderQty": 6.0,
+   "semiQty": 6.0,
+   "nestQty": 2.0,
+   "material": "DC51D+Z140/140",
+   "spec": "1.5mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "激光",
+     "content": "依据DXF排版底图生产",
+     "machine": "激光JG-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转部件装配",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "BQT69304-REV00.1": {
+   "pn": "BQT69304-REV00.1",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV00.1",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转包装",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "BRU90034-REV00.1": {
+   "pn": "BRU90034-REV00.1",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV00.1",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "沉孔",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 4,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 5,
+     "name": "转拉铆",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "GEX15872-REV6.4": {
+   "pn": "GEX15872-REV6.4",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV6.4",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC01",
+   "spec": "3.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "激光",
+     "content": "依据DXF排版底图生产",
+     "machine": "激光JG-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "电镀锌",
+     "content": "电镀来料检验",
+     "machine": "—"
+    },
+    {
+     "seq": 4,
+     "name": "转包装",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "GEX18345-REV01.2": {
+   "pn": "GEX18345-REV01.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV01.2",
+   "perSet": 2.0,
+   "orderQty": 4.0,
+   "semiQty": 4.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "1.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "校平",
+     "content": "依据受控图纸生产",
+     "machine": "校平机XP-01"
+    },
+    {
+     "seq": 3,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 4,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 5,
+     "name": "转部件装配",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "GEX19260-REV04.2": {
+   "pn": "GEX19260-REV04.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV04.2",
+   "perSet": 2.0,
+   "orderQty": 6.0,
+   "semiQty": 6.0,
+   "nestQty": 3.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转拉铆",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "GEX19282-REV05.2": {
+   "pn": "GEX19282-REV05.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV05.2",
+   "perSet": 2.0,
+   "orderQty": 6.0,
+   "semiQty": 6.0,
+   "nestQty": 3.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转部件装配",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "GEX19414-REV02.2": {
+   "pn": "GEX19414-REV02.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV02.2",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "1.5mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转部件装配",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "GEX20377-REV02.2": {
+   "pn": "GEX20377-REV02.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV02.2",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "1.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转部件装配",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "GEX43935-REV00": {
+   "pn": "GEX43935-REV00",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV00",
+   "perSet": 1.0,
+   "orderQty": 15.0,
+   "semiQty": 15.0,
+   "nestQty": 15.0,
+   "material": "SUS304-2B",
+   "spec": "1.0mm*1500mm*3000mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "激光",
+     "content": "依据DXF排版底图生产",
+     "machine": "激光JG-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转包装",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "GEX45891-REV00": {
+   "pn": "GEX45891-REV00",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV00",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转部件装配",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "GEX46541-REV07.2": {
+   "pn": "GEX46541-REV07.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV07.2",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转拉铆",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "GEX46547-REV04.2": {
+   "pn": "GEX46547-REV04.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV04.2",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转机柜装配",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "GEX46550-REV04.2": {
+   "pn": "GEX46550-REV04.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV04.2",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转拉铆",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "GEX46552-REV04.2": {
+   "pn": "GEX46552-REV04.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV04.2",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转拉铆",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "GEX47552-REV02.2": {
+   "pn": "GEX47552-REV02.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV02.2",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转拉铆",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "GEX47554-REV02.2": {
+   "pn": "GEX47554-REV02.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV02.2",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转拉铆",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "GEX49280-REV03.2": {
+   "pn": "GEX49280-REV03.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV03.2",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "沉孔",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 4,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 5,
+     "name": "转拉铆",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "GEX55911-REV05.2": {
+   "pn": "GEX55911-REV05.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV05.2",
+   "perSet": 2.0,
+   "orderQty": 4.0,
+   "semiQty": 4.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "转部件装配",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "GEX77638-REV05.2": {
+   "pn": "GEX77638-REV05.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV05.2",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转机柜装配",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "GEX82352-REV03.2": {
+   "pn": "GEX82352-REV03.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV03.2",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转压铆",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "GEX83742-REV04.2": {
+   "pn": "GEX83742-REV04.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV04.2",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转拉铆",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "GEX84026-REV02.2": {
+   "pn": "GEX84026-REV02.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV02.2",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转包装",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "JPS40026-REV01.3": {
+   "pn": "JPS40026-REV01.3",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV01.3",
+   "perSet": 4.0,
+   "orderQty": 8.0,
+   "semiQty": 8.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转部件装配",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "JPS40028-REV01.2": {
+   "pn": "JPS40028-REV01.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV01.2",
+   "perSet": 2.0,
+   "orderQty": 4.0,
+   "semiQty": 4.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转部件装配",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "JPS40746-REV02.2": {
+   "pn": "JPS40746-REV02.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV02.2",
+   "perSet": 1.0,
+   "orderQty": 1.0,
+   "semiQty": 1.0,
+   "nestQty": 1.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转部件装配",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "JPS40747-REV01.2": {
+   "pn": "JPS40747-REV01.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV01.2",
+   "perSet": 1.0,
+   "orderQty": 1.0,
+   "semiQty": 1.0,
+   "nestQty": 1.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转部件装配",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "JPS56442-REV01.3": {
+   "pn": "JPS56442-REV01.3",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV01.3",
+   "perSet": 1.0,
+   "orderQty": 3.0,
+   "semiQty": 3.0,
+   "nestQty": 3.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转部件装配",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "JPS57465-REV01.2": {
+   "pn": "JPS57465-REV01.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV01.2",
+   "perSet": 1.0,
+   "orderQty": 3.0,
+   "semiQty": 3.0,
+   "nestQty": 3.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转包装",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "JPS57988-REV00.1": {
+   "pn": "JPS57988-REV00.1",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV00.1",
+   "perSet": 2.0,
+   "orderQty": 4.0,
+   "semiQty": 4.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转部件装配",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "JPS57989-REV00.2": {
+   "pn": "JPS57989-REV00.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV00.2",
+   "perSet": 2.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 1.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转部件装配",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "JPS57992-REV00.1": {
+   "pn": "JPS57992-REV00.1",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV00.1",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转部件装配",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "JPT43904-REV02.2": {
+   "pn": "JPT43904-REV02.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV02.2",
+   "perSet": 1.0,
+   "orderQty": 15.0,
+   "semiQty": 15.0,
+   "nestQty": 15.0,
+   "material": "SUS304-2B",
+   "spec": "2.0mm*1219mm*2438mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "激光",
+     "content": "依据DXF排版底图生产",
+     "machine": "激光JG-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "转焊接",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "JPT58326-REV01.2": {
+   "pn": "JPT58326-REV01.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV01.2",
+   "perSet": 1.0,
+   "orderQty": 4.0,
+   "semiQty": 4.0,
+   "nestQty": 4.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "1.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "校平",
+     "content": "依据受控图纸生产",
+     "machine": "校平机XP-01"
+    },
+    {
+     "seq": 3,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 4,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 5,
+     "name": "转部件装配",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "JPT58327-REV01.2": {
+   "pn": "JPT58327-REV01.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV01.2",
+   "perSet": 1.0,
+   "orderQty": 4.0,
+   "semiQty": 4.0,
+   "nestQty": 4.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "1.5mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "校平",
+     "content": "依据受控图纸生产",
+     "machine": "校平机XP-01"
+    },
+    {
+     "seq": 3,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 4,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 5,
+     "name": "转部件装配",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "JPT58328-REV01.1": {
+   "pn": "JPT58328-REV01.1",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV01.1",
+   "perSet": 1.0,
+   "orderQty": 4.0,
+   "semiQty": 4.0,
+   "nestQty": 4.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "1.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "校平",
+     "content": "依据受控图纸生产",
+     "machine": "校平机XP-01"
+    },
+    {
+     "seq": 3,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 4,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 5,
+     "name": "转包装",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "JPT76452-REV00.2": {
+   "pn": "JPT76452-REV00.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV00.2",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "沉孔",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 4,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 5,
+     "name": "转拉铆",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "JPT87163-REV02.2": {
+   "pn": "JPT87163-REV02.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV02.2",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转拉铆",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "JPT88166-REV01.2": {
+   "pn": "JPT88166-REV01.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV01.2",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转拉铆",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "JPU11581-REV00.2": {
+   "pn": "JPU11581-REV00.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV00.2",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "SUS304-2B",
+   "spec": "2.0mm*1219mm*2438mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "激光",
+     "content": "依据DXF排版底图生产",
+     "machine": "激光JG-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转拉铆",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "JPW009953-REV00.2": {
+   "pn": "JPW009953-REV00.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV00.2",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转拉铆",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "JPW010166-REV00.2": {
+   "pn": "JPW010166-REV00.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV00.2",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "激光",
+     "content": "依据DXF排版底图生产",
+     "machine": "激光JG-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转包装",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "JPW062763-REV01.2": {
+   "pn": "JPW062763-REV01.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV01.2",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "SUS304-2B",
+   "spec": "4*400*600",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "激光",
+     "content": "依据DXF排版底图生产",
+     "machine": "激光JG-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转焊接",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "JPW067022-REV00.1": {
+   "pn": "JPW067022-REV00.1",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV00.1",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.5mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转包装",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "JPW079782-REV00.2": {
+   "pn": "JPW079782-REV00.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV00.2",
+   "perSet": 1.0,
+   "orderQty": 4.0,
+   "semiQty": 4.0,
+   "nestQty": 4.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "转包装",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "JYT24986-REV04.2": {
+   "pn": "JYT24986-REV04.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV04.2",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转拉铆",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "JYT25212-REV06.2": {
+   "pn": "JYT25212-REV06.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV06.2",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转部件装配",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "JYT28099-REV03": {
+   "pn": "JYT28099-REV03",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV03",
+   "perSet": 4.0,
+   "orderQty": 8.0,
+   "semiQty": 8.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转部件装配",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "JYT28114-REV07.2": {
+   "pn": "JYT28114-REV07.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV07.2",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.5mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转部件装配",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "JYT28122-REV04.2": {
+   "pn": "JYT28122-REV04.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV04.2",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+Z140/140",
+   "spec": "3.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "激光",
+     "content": "依据DXF排版底图生产",
+     "machine": "激光JG-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转部件装配",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "JYT28130-REV03.5": {
+   "pn": "JYT28130-REV03.5",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV03.5",
+   "perSet": 2.0,
+   "orderQty": 4.0,
+   "semiQty": 4.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转压铆",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "JYT28134-REV03.3": {
+   "pn": "JYT28134-REV03.3",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV03.3",
+   "perSet": 2.0,
+   "orderQty": 4.0,
+   "semiQty": 4.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转压铆",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "JYT32185-REV04.5": {
+   "pn": "JYT32185-REV04.5",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV04.5",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.5mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转部件装配",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "JYT32186-REV03.3": {
+   "pn": "JYT32186-REV03.3",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV03.3",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.5mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转部件装配",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "JYT46489-REV02.2": {
+   "pn": "JYT46489-REV02.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV02.2",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转部件装配",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "JYT50856-REV04.2": {
+   "pn": "JYT50856-REV04.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV04.2",
+   "perSet": 2.0,
+   "orderQty": 4.0,
+   "semiQty": 4.0,
+   "nestQty": 2.0,
+   "material": "Q235B",
+   "spec": "4.0*1500mm*3000mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "激光",
+     "content": "依据DXF排版底图生产",
+     "machine": "激光JG-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转焊接",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "JYT50895-REV02.2": {
+   "pn": "JYT50895-REV02.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV02.2",
+   "perSet": 2.0,
+   "orderQty": 4.0,
+   "semiQty": 4.0,
+   "nestQty": 2.0,
+   "material": "Q235B",
+   "spec": "4.0*1500mm*3000mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "转焊接",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "JYT65151-REV08": {
+   "pn": "JYT65151-REV08",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV08",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转拉铆",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "JYT65155-REV07": {
+   "pn": "JYT65155-REV07",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV07",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转拉铆",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "JYT66785-REV03.3": {
+   "pn": "JYT66785-REV03.3",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV03.3",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转部件装配",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "NAT20634-REV01.2": {
+   "pn": "NAT20634-REV01.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV01.2",
+   "perSet": 1.0,
+   "orderQty": 7.0,
+   "semiQty": 7.0,
+   "nestQty": 7.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转包装",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "NNZ53859-REV03.2": {
+   "pn": "NNZ53859-REV03.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV03.2",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转拉铆",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "NNZ53864-REV04.2": {
+   "pn": "NNZ53864-REV04.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV04.2",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转拉铆",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "NNZ59732-REV10.2": {
+   "pn": "NNZ59732-REV10.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV10.2",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "Q235B",
+   "spec": "4.0*1500mm*3000mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "激光",
+     "content": "依据DXF排版底图生产",
+     "machine": "激光JG-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "攻牙",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 4,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 5,
+     "name": "电镀锌",
+     "content": "电镀来料检验",
+     "machine": "—"
+    },
+    {
+     "seq": 6,
+     "name": "转机柜装配",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "NNZ61887-REV11.2": {
+   "pn": "NNZ61887-REV11.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV11.2",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC01",
+   "spec": "3.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "激光",
+     "content": "依据DXF排版底图生产",
+     "machine": "激光JG-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "电镀锌",
+     "content": "电镀来料检验",
+     "machine": "—"
+    },
+    {
+     "seq": 5,
+     "name": "转拉铆",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "NNZ64316-REV04.2": {
+   "pn": "NNZ64316-REV04.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV04.2",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转机柜装配",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "NNZ64339-REV03.3": {
+   "pn": "NNZ64339-REV03.3",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV03.3",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+Z140/140",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "激光",
+     "content": "依据DXF排版底图生产",
+     "machine": "激光JG-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转机柜装配",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "NNZ84260-REV07.2": {
+   "pn": "NNZ84260-REV07.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV07.2",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转拉铆",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "NNZ84266-REV05.2": {
+   "pn": "NNZ84266-REV05.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV05.2",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转拉铆",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "NNZ84270-REV06.2": {
+   "pn": "NNZ84270-REV06.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV06.2",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转拉铆",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "NNZ84271-REV07.2": {
+   "pn": "NNZ84271-REV07.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV07.2",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲1",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "数冲2",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 3,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 4,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 5,
+     "name": "转压铆",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "NNZ84278-REV07.2": {
+   "pn": "NNZ84278-REV07.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV07.2",
+   "perSet": 2.0,
+   "orderQty": 4.0,
+   "semiQty": 4.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转机柜装配",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "NNZ84285-REV06.2": {
+   "pn": "NNZ84285-REV06.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV06.2",
+   "perSet": 1.0,
+   "orderQty": 4.0,
+   "semiQty": 4.0,
+   "nestQty": 4.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "1.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转包装",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "NNZ84757-REV06.3": {
+   "pn": "NNZ84757-REV06.3",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV06.3",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转部件装配",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "NNZ85457-REV08.2": {
+   "pn": "NNZ85457-REV08.2",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV08.2",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+AZ75/75",
+   "spec": "2.0mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "沉孔",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 4,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 5,
+     "name": "转拉铆",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  },
+  "PKR25318-REV02.3": {
+   "pn": "PKR25318-REV02.3",
+   "project": "63.中压类 SHMV2644_GreenOx 630A Batch5 -需求号202610220017钣金件",
+   "order": "XM-SCDD2026111102",
+   "due": "2026-11-13",
+   "version": "REV02.3",
+   "perSet": 1.0,
+   "orderQty": 2.0,
+   "semiQty": 2.0,
+   "nestQty": 2.0,
+   "material": "DC51D+Z140/140",
+   "spec": "2.5mm*1250mm*2500mm",
+   "processes": [
+    {
+     "seq": 1,
+     "name": "数冲",
+     "content": "依据DXF排版底图生产",
+     "machine": "数冲SC-01"
+    },
+    {
+     "seq": 2,
+     "name": "打磨（除锈）",
+     "content": "—",
+     "machine": "—"
+    },
+    {
+     "seq": 3,
+     "name": "折弯",
+     "content": "依据受控图纸生产",
+     "machine": "折弯机ZW-01"
+    },
+    {
+     "seq": 4,
+     "name": "转拉铆",
+     "content": "—",
+     "machine": "—"
+    }
+   ]
+  }
+ }
+}

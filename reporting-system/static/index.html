@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0f2e4d">
+<title>工序报工 · 厦门津荣精密机械</title>
+<link rel="stylesheet" href="/static/app.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="topbar-inner">
+    <div class="brand">
+      <div class="logo" aria-hidden="true">
+        <svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+          <rect x="3" y="3" width="7" height="7" rx="1.2"></rect>
+          <rect x="14" y="3" width="7" height="7" rx="1.2"></rect>
+          <rect x="3" y="14" width="7" height="7" rx="1.2"></rect>
+          <path d="M14 14h3v3h-3zM20 14v.01M14 20v.01M20 20v.01"></path>
+        </svg>
+      </div>
+      <div class="brand-text">
+        <b>厦门津荣精密机械有限公司</b>
+        <span>工序流转卡 · 扫码报工</span>
+      </div>
+    </div>
+    <a class="top-link" href="/admin">报工记录</a>
+  </div>
+</header>
+
+<main id="app">
+  <section class="card" id="loadingCard">
+    <div class="empty" id="loadingText">正在加载流程卡…</div>
+  </section>
+
+  <section class="card" id="pickerCard" hidden>
+    <div class="card-head">
+      <div class="card-title">选择零件</div>
+      <span class="badge" id="pickerCount"></span>
+    </div>
+    <div class="search-box" style="padding-top:12px">
+      <input class="input" id="searchInput" placeholder="输入物料号或项目名搜索" autocomplete="off">
+    </div>
+    <div class="part-list" id="partList"></div>
+  </section>
+
+  <div id="detailWrap" hidden>
+    <section class="card">
+      <div class="part-head">
+        <div class="part-pn" id="partPn"></div>
+        <div class="part-project" id="partProject"></div>
+        <div class="info-grid">
+          <div class="info-cell"><div class="k">工单号</div><div class="v small" id="infoOrder"></div></div>
+          <div class="info-cell"><div class="k">订单数量</div><div class="v" id="infoQty"></div></div>
+          <div class="info-cell"><div class="k">单套 / 下料</div><div class="v" id="infoPer"></div></div>
+          <div class="info-cell"><div class="k">材质</div><div class="v small" id="infoMaterial"></div></div>
+          <div class="info-cell"><div class="k">规格</div><div class="v small" id="infoSpec"></div></div>
+          <div class="info-cell"><div class="k">交期</div><div class="v small" id="infoDue"></div></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="card">
+      <div class="card-head">
+        <div class="card-title">选择报工工序</div>
+        <span class="badge" id="processBadge">0 / 0</span>
+      </div>
+      <div class="process-wrap">
+        <div class="process-scroll" id="processChips"></div>
+        <div class="progress-box">
+          <div class="progress-top">
+            <span>当前工序进度</span>
+            <span><b id="progressOk">0</b> / <span id="progressPlan">0</span></span>
+          </div>
+          <div class="bar" id="progressBar"><i></i></div>
+          <div class="progress-sub">
+            <span id="progressLeft">剩余 0 件</span>
+            <span id="progressNg"></span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="card">
+      <div class="card-head"><div class="card-title">报工信息</div></div>
+      <form class="form" id="reportForm" autocomplete="off">
+        <div class="qty-row">
+          <div class="field">
+            <label>合格数量<span class="req">*</span></label>
+            <div class="stepper">
+              <button type="button" data-step="-1" aria-label="减少">−</button>
+              <input class="input" id="qtyOk" type="number" inputmode="decimal" min="0" step="1" value="1">
+              <button type="button" data-step="1" aria-label="增加">+</button>
+            </div>
+          </div>
+          <div class="field">
+            <label>不良数量</label>
+            <div class="stepper">
+              <button type="button" data-stepng="-1" aria-label="减少">−</button>
+              <input class="input" id="qtyNg" type="number" inputmode="decimal" min="0" step="1" value="0">
+              <button type="button" data-stepng="1" aria-label="增加">+</button>
+            </div>
+          </div>
+        </div>
+        <div class="quick-row">
+          <button type="button" class="quick" id="fillRest">填入剩余数量</button>
+          <button type="button" class="quick" id="fillFive">+5</button>
+          <button type="button" class="quick" id="fillTen">+10</button>
+        </div>
+        <div class="field">
+          <label>报工人<span class="req">*</span></label>
+          <input class="input" id="worker" placeholder="请输入工号或姓名" maxlength="20">
+        </div>
+        <div class="field">
+          <label>设备</label>
+          <input class="input" id="machine" placeholder="自动带出，可修改" maxlength="30">
+        </div>
+        <div class="field">
+          <label>备注</label>
+          <textarea class="textarea" id="note" maxlength="200" placeholder="选填，如换模、补料、异常说明"></textarea>
+        </div>
+        <button class="submit-btn" id="submitBtn" type="submit">提交报工</button>
+        <div class="hint" id="submitHint">提交后将写入报工记录，请核对工序与数量。</div>
+      </form>
+    </section>
+
+    <section class="card">
+      <div class="card-head">
+        <div class="card-title">本卡最近报工</div>
+        <span class="badge" id="recentCount">0 条</span>
+      </div>
+      <div class="recent-list" id="recentList"><div class="empty">暂无报工记录</div></div>
+    </section>
+  </div>
+</main>
+
+<div class="toast" id="toast"></div>
+<script src="/static/app.js"></script>
+</body>
+</html>

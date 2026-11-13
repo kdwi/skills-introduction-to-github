@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0f2e4d">
+<title>报工记录 · 厦门津荣精密机械</title>
+<link rel="stylesheet" href="/static/app.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="topbar-inner" style="max-width:1180px">
+    <div class="brand">
+      <div class="logo" aria-hidden="true">
+        <svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M4 19V5M4 19h16"></path><path d="M8 15l3-4 3 2 4-6"></path>
+        </svg>
+      </div>
+      <div class="brand-text">
+        <b>报工记录看板</b>
+        <span>厦门津荣精密机械有限公司 · 工序流转卡</span>
+      </div>
+    </div>
+    <a class="top-link" href="/">扫码报工</a>
+  </div>
+</header>
+
+<main class="admin-main">
+  <div class="stat-grid">
+    <div class="stat"><div class="k">报工记录</div><div class="v" id="statCnt">0<small>条</small></div></div>
+    <div class="stat"><div class="k">合格数量</div><div class="v" id="statOk">0<small>件</small></div></div>
+    <div class="stat"><div class="k">不良数量</div><div class="v" id="statNg">0<small>件</small></div></div>
+    <div class="stat"><div class="k">覆盖零件</div><div class="v" id="statParts">0<small>个</small></div></div>
+  </div>
+
+  <section class="card">
+    <div class="toolbar">
+      <div class="field">
+        <label>工单号</label>
+        <input class="input" id="fWo" placeholder="全部">
+      </div>
+      <div class="field">
+        <label>物料号</label>
+        <input class="input" id="fPn" list="pnList" placeholder="全部">
+        <datalist id="pnList"></datalist>
+      </div>
+      <div class="field">
+        <label>工序</label>
+        <select class="select" id="fProc"><option value="">全部工序</option></select>
+      </div>
+      <button class="btn primary" id="btnQuery">查询</button>
+      <button class="btn" id="btnReset">重置</button>
+      <a class="btn" href="/api/export.csv" download>导出 CSV</a>
+    </div>
+  </section>
+
+  <section class="card">
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>ID</th><th>报工时间</th><th>工单号</th><th>物料号</th><th>工序</th>
+            <th>合格</th><th>不良</th><th>报工人</th><th>设备</th><th>备注</th>
+          </tr>
+        </thead>
+        <tbody id="tbody">
+          <tr><td colspan="10" style="text-align:center;color:#64748b;padding:30px">加载中…</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+</main>
+
+<div class="toast" id="toast"></div>
+<script src="/static/admin.js"></script>
+</body>
+</html>
